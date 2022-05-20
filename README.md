@@ -16,9 +16,10 @@ This is a config file to modify your vim/neovim to increase both **Appearance** 
 
 # Installation
 First thing first let's help you Install these on your beautiful Vim/Nvim:
+## Nvim
+> Windows (PowerShell)
+'''
+iwr -useb https://raw.githubusercontent.com/hellblazer24/vim-neovim-config-windows/main/init.vim |`
+    ni $HOME/AppData/Local/init.vim -Force
+'''
 ## Vim
-> Windows
-'''
-iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
-    ni $HOME/vimfiles/autoload/plug.vim -Force
-'''
