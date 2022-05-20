@@ -1,4 +1,4 @@
-# vim-neovim-config-windows
+# Vim-neovim-config-windows
 A minimize config file for Vim and Neovim on Windows. Works with both Terminal and GUI version
 
 # What do these do?
@@ -18,10 +18,10 @@ This is a config file to modify your vim/neovim to increase both **Appearance** 
 First thing first let's help you Install these on your beautiful Vim/Nvim:
 ## Nvim
 >Windows (PowerShell)
-
 '''
 
 iwr -useb https://raw.githubusercontent.com/hellblazer24/vim-neovim-config-windows/main/init.vim |`
     ni $HOME/AppData/Local/init.vim -Force
 '''
+
 ## Vim
