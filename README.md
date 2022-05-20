@@ -1,4 +1,4 @@
-# Vim/neovim-config-windows
+# Vim Dotfiles
 A minimize config file for Vim and Neovim on Windows. Works with both Terminal and GUI version
 
 # What do these do?
