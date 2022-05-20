@@ -1,11 +1,11 @@
 # vim-neovim-config-windows
 A minimize config file for Vim and Neovim on Windows. Works with both Terminal and GUI version
 
->What do these do?
+# What do these do?
 
-  Well it is basically a config file to modify your vim/neovim to increase both **Appearance** and Productivity
+This is a config file to modify your vim/neovim to increase both **Appearance** and Productivity
 
-> What Plugins is include? 
+# What Plugins is include? 
 - Neovim Dashboard
 - Vim-Floatterm(Floating terminal inside vim)
 - Devicons(to add some icon into vim/nvim)
