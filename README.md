@@ -3,7 +3,8 @@ A minimize config file for Vim and Neovim on Windows. Works with both Terminal a
 
 # What do these do?
 
-This is a config file to modify your vim/neovim to increase both **Appearance** and Productivity
+These are config files to modify your vim/neovim to increase both **Appearance** and Productivity
+
 
 # What Plugins is include? 
 - Neovim Dashboard
@@ -27,3 +28,13 @@ iwr -useb https://raw.githubusercontent.com/hellblazer24/vim-neovim-config-windo
 ```
 
 ## Vim
+#### Windows (PowerShell)
+
+```sh
+iwr -useb https://raw.githubusercontent.com/hellblazer24/vim-neovim-config-windows/main/_vimrc |`
+    ni C:/Program Files (x86)/vim/_vimrc -Force
+```
+
+
+
+Happy hunting!
