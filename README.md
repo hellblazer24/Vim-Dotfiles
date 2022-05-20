@@ -9,7 +9,7 @@
 These are config files to modify your vim/neovim to increase both **Appearance** and Productivity
 
 
-# What Plugins is include? 
+# What Plugins are included? 
 - Neovim Dashboard
 - Vim-Floatterm(Floating terminal inside vim)
 - Devicons(to add some icon into vim/nvim)
