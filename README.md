@@ -20,6 +20,7 @@ First thing first let's help you Install these on your beautiful Vim/Nvim:
 >Windows (PowerShell)
 
 '''
+
 iwr -useb https://raw.githubusercontent.com/hellblazer24/vim-neovim-config-windows/main/init.vim |`
     ni $HOME/AppData/Local/init.vim -Force
 '''
