@@ -14,4 +14,11 @@ This is a config file to modify your vim/neovim to increase both **Appearance** 
 - GruvBox Colorscheme
 - Some custom keybind(you can look up for Neovim keybinds if you prefer another key)
 
+# Installation
 First thing first let's help you Install these on your beautiful Vim/Nvim:
+## Vim
+> Windows
+'''
+iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
+    ni $HOME/vimfiles/autoload/plug.vim -Force
+'''
